@@ -1,0 +1,47 @@
+body {
+    background-image: url('images/pic3.jpeg');
+    background-color: #e3f5ff;
+}
+
+
+h2 {
+    font-size: 40px;
+    margin-left: 30%;
+}
+
+
+.inp {
+    font-style: italic;
+    border: 3px solid darkblue;
+    height: 60px;
+    width: 550px;
+    margin-left: 30%;
+}
+
+img {
+    height: 8%;
+    width: 8%;
+}
+
+
+.sub {
+    font-style: italic;
+    margin-left: 30%;
+}
+
+.res {
+   font-style: italic; 
+}
+
+
+.output-text{
+    white-space: break-spaces;
+    border: 1px solid darkblue;
+    background-color: #e3f5ff;
+}
+
+h1 {
+    font-size: 40px;
+    margin-left: 30%;
+}
+
